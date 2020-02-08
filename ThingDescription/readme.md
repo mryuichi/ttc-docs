@@ -15,3 +15,19 @@
 
 ### 定義語の記載方法
 Object、Arrayなど、文書内で定義される語彙は、原語のまま利用する。例の中にも記載されるためで、翻訳することにより対応関係が一見してわかりにくくなるため。
+
+### Preliminaries
+
+TD Information Model　TD情報モデル
+Object
+Term
+Vocabulary
+Array
+Map
+Signature
+Simple Type
+Assignment Function
+Type Function
+Vocaburaly Term
+Instance Relation
+
