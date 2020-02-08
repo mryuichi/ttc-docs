@@ -18,16 +18,19 @@ Object、Arrayなど、文書内で定義される語彙は、原語のまま利
 
 ### Preliminaries
 
-TD Information Model　TD情報モデル
-Object
-Term
-Vocabulary
-Array
-Map
-Signature
-Simple Type
-Assignment Function
-Type Function
-Vocaburaly Term
-Instance Relation
+原語 | 訳語
+---|---
+TD Information Model | TD情報モデル
+Object | オブジェクト
+Term | 用語
+Vocabulary | 語彙
+Array | 
+Map | 
+Signature | 
+Simple Type | 
+Assignment Function | 
+Type Function | 
+Vocaburaly Term | 
+Instance Relation |  | 
+
 
